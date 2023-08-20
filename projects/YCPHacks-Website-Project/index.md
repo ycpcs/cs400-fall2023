@@ -30,7 +30,7 @@ This project will consist of two teams of 2-3 members focusing on two different 
 
 2) Extending Functionality: Identifying, designing, prototyping, developing additional functionality for the YCPHacks website for future years.
 
-NOTE: It will be likely that members of the development team will be pulled into testing and possibly fixing the production website as we get closer to YCPHacks.  After YCPHacks (CS402) all team members will be working on new functinality, as well as increasing the robustness of the website.
+NOTE: It will be likely that members of the development team will be pulled into testing and possibly fixing the production website as we get closer to YCPHacks.  After YCPHacks (CS402) all team members will be working on bug fixes and new functionality, as well as increasing the robustness of the website.
 
 Both teams will be working under the direction of Ralph Greaves - last year's YCPHacks Website Project team leader.
 

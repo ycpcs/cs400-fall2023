@@ -1,10 +1,10 @@
 ---
 layout: default
-course_number: CS400-PW
+course_number: CS400 (Privilege Walk Project)
 title: Schedule
 ---
 
-This is the course schedule for CS 400-PW (Privilege Walk Project).
+This is the assignment schedule for the Fall 2023 CS400 Privilege Walk Project.
 
 **Assignment** | **Due**
 :--------------|:---------

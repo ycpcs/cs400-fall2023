@@ -1,10 +1,10 @@
 ---
 layout: default
-course_number: CS400-YCPHacks
+course_number: CS400 (YCPHacks Website Project)
 title: Schedule
 ---
 
-This is the course schedule for CS400-YCPHacks (YCPHacks Website). 
+This is the assignment schedule for the Fall 2023 CS400 YCPHacks Website Project. 
 
 **Assignment** | **Due**
 :--------------|:---------
