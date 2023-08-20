@@ -1,34 +1,29 @@
 ---
 layout: default
 course_number: CS400
-title: CS Capstone I
+title: CS Capstone I (YCPHacks Website Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400: CS Capstone I
+## CS400: CS Capstone I (YCPHacks Website Project)
 
-## Fall 2022
+## Fall 2023
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 400 (CS Capstone I) Fall 2022 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
-
-You can find the [YCPHacks Website Project Description here](YCPHacks-Capstone-Project-Description.pdf).
-
-You can find the [CS 400 Privilege Walk Project course website here](https://ycpcs.github.io/cs400-fall2022-PW).
-
-You can find the [CS 400 YCAS Radio Telescope Project course website here](https://ycpcs.github.io/cs400-fall2022-RT).
-
+This is the web page for the YCPHacks Website Project for CS 400 Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the YCP Hacks Website Project will be posted here.
 
 ## Links
 
-* [Syllabus](syllabus.html)
+* (CS400-Fa23 Website](/index.html)
+* [Syllabus](/syllabus.html)
 * [Schedule](schedule.html)
 
+## YCPHacks Project Description
 
 ## News
-<!-- Commenting out News until it's needed - and the dates could change, anyway
+<!-- Commenting out YCPHacks-specific News until it's needed - and the dates could change, anyway
 
 * 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
 
@@ -39,8 +34,6 @@ You can find the [CS 400 YCAS Radio Telescope Project course website here](https
 * 11-14-22: Your status report for Monday, 11-28-22 has been moved to Wednesday, 11-30-22
 
 * 11-14-22: On Monday, 11-21-22, you will be giving your status update to your clients: Tyler Franks & David McHugh 
-
--->
 
 * 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Monday, 11-14-22, with presentation and demo during class
 
@@ -58,8 +51,6 @@ You can find the [CS 400 YCAS Radio Telescope Project course website here](https
 
 * 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
 
-* 8-20-22: Project teams will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays **in-person** in KEC 123.  Mondays & Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
+-->
 
-* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
-
-* 8-12-22: Welcome back to Kinsley Engineering Center...  :-)
+[General CS400 News](/cs400-fall2023/index.html)

@@ -1,22 +1,23 @@
 ---
 layout: default
-course_number: CS400-PW
+course_number: CS400
 title: CS Capstone I (Privilege Walk Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-## CS400-PW: CS Capstone I (Privilege Walk Project)
+## CS400: CS Capstone I (Privilege Walk Project)
 
-## Fall 2022
+## Fall 2023
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 400-PW (CS Capstone I) Fall 2022 for the Privilege Walk Project at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
+This is the web page for the Privilege Walk Project for CS 400 Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the Privilege Walk Project will be posted here.
 
 ## Links
 
-* [Syllabus](syllabus.html)
+* (CS400-Fa23 Website](/index.html)
+* [Syllabus](/syllabus.html)
 * [Schedule](schedule.html)
 
 ## Privilege Walk Project Description
@@ -26,19 +27,19 @@ Here are links to two descriptions of the Privilege Walk exercise:
   - [OpenSource.com Privilege Walk Exercise](https://opensource.com/open-organization/17/11/privilege-walk-exercise)
   - [EIU Privilege Walk Exercise](https://www.eiu.edu/eiu1111/Privilege%20Walk%20Exercise-%20Transfer%20Leadership%20Institute-%20Week%204.pdf)
 
-This is the second year for the Privilege Walk project, with two faculty members from the York College Psychology program serving as your clients: [Dr. Perri Druen](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/druen-perri.php) and [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find their initial project requirements [here](PrivilegeWalkApplicationDescription.pdf).
+This is the third year for the Privilege Walk project, with a faculty members from the York College Psychology program serving as your client [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find the initial project requirements [here](PrivilegeWalkApplicationDescription.pdf).
 
-You will be continuing development of this project, building upon the accomplishments of last year's CS Senior Design I (CS481) and CS Senior Design II (CS482) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your clients, as well as from the prior team's progress (Final Technical Report from CS482).  Your clients will also establish your tasks and priorities in consultation with me, and with your input, as you plan and develop the sprint schedule for your agile development approach.
+You will be continuing development of this project, building upon the accomplishments of last year's CS Capstone I (CS400) and Capstone II (CS402) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your client, as well as from the prior team's progress (Final Technical Reports from CS400 and CS402).  Your client will also establish your tasks and priorities in consultation with us, and with your input, as you plan and develop the sprint schedule for your agile development approach.
 
-This project will likely break into 2-3 teams, across 3-5 people (team members can be on multiple teams):
+This project will likely be a single team of 3-4 members focusing mainly on the administrative tasks for the Privilege Walk project.  However, you willlikely need to make tweaks, adjsutments, and/or add new features to the following areas:
 - Front End (UI / UX)
 - Backend and Database
 - Data Visualization
 
-It is highly likely that this will be a two-semester project, spanning both CS400 (Fall 2022) and CS402 (Spring 2023).  I highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
+This project will again span two semesters: CS400 (Fall 2023) and CS402 (Spring 2024).  We highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
 
 ## News
-<!-- Commenting out News until it's needed - and the dates could change, anyway
+<!-- Commenting out specific Privilege Walk News until it's needed - and the dates could change, anyway
 
 * 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
 
@@ -47,8 +48,6 @@ It is highly likely that this will be a two-semester project, spanning both CS40
 * 11-14-22: Assignment 7 (Draft Technical Report) is due by Noon, Sunday, 12-4-22, in your Google Team Drive
 
 * 11-14-22: On Friday, 11-18-22, you will be giving your status update to Tyler Franks & David McHugh 
-
--->
 
 * 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Friday, 11-11-22, with presentation and demo during class
 
@@ -68,9 +67,6 @@ It is highly likely that this will be a two-semester project, spanning both CS40
 
 * 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
 
+-->
 
-* 8-20-22: The Privilege Walk team will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays **in-person** in KEC 123.  We will be using Zoom in KEC 123 to allow Dr. Druen to attend the meetings.  Mondays & Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
-
-* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
-
-* 8-12-22: Welcome back to Kinsley Engineering Center...  :-)
+[General CS400 Fall 2023 News](/cs400-fall2023/index.html)
