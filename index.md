@@ -16,7 +16,7 @@ This is the website for CS 400 (CS Capstone I) Fall 2023 at [York College of Pen
 
 Here are the links for the CS Capstone I projects for Fall 2023:
 
-[Blockhouse ERP Interface Project Web Page](./projects/Blockhouse-Project/index.html).
+[Blockhouse RFQ Project Web Page](./projects/Blockhouse-RFQ-Project/index.html).
  
 [Privilege Walk Project Course Web Page](./projects/Privilege-Walk-Project/index.html).
 

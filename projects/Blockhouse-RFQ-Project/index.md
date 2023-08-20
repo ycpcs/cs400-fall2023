@@ -1,7 +1,7 @@
 ---
 layout: default
 course_number: CS400
-title: CS Capstone I (Blockhouse Project)
+title: CS Capstone I (Blockhouse RFQ Project)
 ---
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
@@ -12,7 +12,7 @@ title: CS Capstone I (Blockhouse Project)
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the web page for the Blockhouse Project for CS 400 Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the Blockhouse Project will be posted here.
+This is the web page for the Blockhouse RFQ Project for CS 400 Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu).  All information specifically related to the Blockhouse RFQ Project will be posted here.
 
 ## Links
 
@@ -20,7 +20,7 @@ This is the web page for the Blockhouse Project for CS 400 Fall 2023 at [York Co
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
 
-## Blockhouse Project Description
+## Blockhouse RFQ Project Description
 Josh Manieri (IT Director) from [Blockhouse](https://blockhouse.com) reached out to us regarding a possible project.  Here are the salient details from his email.
 
 > I am reaching out on behalf of Blockhouse, a York-based furniture manufacturer with an almost entirely self-hosted Linux & Windows-based IT environment on-site that we are continuing to modernize. We actually have an extensive amount of our furniture placed across York College's campus! I am writing to inquire about the possibility of Blockhouse participating in your esteemed university's senior capstone project for the computer science department.
@@ -29,12 +29,12 @@ Josh Manieri (IT Director) from [Blockhouse](https://blockhouse.com) reached out
 
 > The primary project I'm more inclined towards for capstone involves the development of a web-accessible Request-for-Quote (RFQ) system tailored to our Inside Sales team's needs. With 16 Sales Representatives and 3 Sales Coordinators, the current process involves the completion of multiple PDF forms for product quotation purposes. The envisaged web application streamlines this workflow by compiling essential information from the RFQ process and seamlessly integrating it with our CRM and ERP systems over RESTful APIs, enhancing overall efficiency and accuracy of the RFQ process here.
 
-The Blockhouse Project will likely be a single team of 3-4 members focusing mainly on the RFQ Front-End development, but will also involved interfacing with their existing CRM and ERP systems, as described above.
+The Blockhouse RFQ Project will likely be a single team of 3-4 members focusing mainly on the RFQ Front-End development, but will also involved interfacing with their existing CRM and ERP systems, as described above.
 
 This project will span at least two semesters: CS400 (Fall 2023) and CS402 (Spring 2024).  We highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
 
 ## News
-<!-- Commenting out specific Blockhouse News until it's needed - and the dates could change, anyway
+<!-- Commenting out specific Blockhouse RFQ News until it's needed - and the dates could change, anyway
 
 * 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
 
