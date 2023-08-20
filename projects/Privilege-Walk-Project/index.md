@@ -16,8 +16,8 @@ This is the web page for the Privilege Walk Project for CS 400 Fall 2023 at [Yor
 
 ## Links
 
-* (CS400-Fa23 Website](/index.html)
-* [Syllabus](/syllabus.html)
+* (CS400-Fa23 Website](../../index.html)
+* [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
 
 ## Privilege Walk Project Description
@@ -69,4 +69,4 @@ This project will again span two semesters: CS400 (Fall 2023) and CS402 (Spring 
 
 -->
 
-[General CS400 Fall 2023 News](/cs400-fall2023/index.html)
+[General CS400 Fall 2023 News](../../cs400-fall2023/index.html)

@@ -16,8 +16,8 @@ This is the web page for the YCPHacks Website Project for CS 400 Fall 2023 at [Y
 
 ## Links
 
-* (CS400-Fa23 Website](/index.html)
-* [Syllabus](/syllabus.html)
+* [CS400-Fa23 Website](../../index.html)
+* [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
 
 ## YCPHacks Project Description
@@ -53,4 +53,4 @@ This is the web page for the YCPHacks Website Project for CS 400 Fall 2023 at [Y
 
 -->
 
-[General CS400 News](/cs400-fall2023/index.html)
+[General CS400 Fall 2023 News](/cs400-fall2023/index.html)
