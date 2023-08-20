@@ -8,21 +8,17 @@ title: CS Capstone I
 
 ## CS400: CS Capstone I
 
-## Fall 2023
+## Fall 2022
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-This is the website for CS 400 (CS Capstone I) Fall 2023 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
+This is the website for CS 400 (CS Capstone I) Fall 2022 at [York College of Pennsylvania](http://www.ycp.edu) .  All information related to the course will be posted here.
 
-Here are the links for the CS Capstone I projects for Fall 2023:
+You can find the [YCPHacks Website Project Description here](YCPHacks-Capstone-Project-Description.pdf).
 
-[Blockhouse ERP Interface Project Web Page](./projects/Blockhouse-Project/index.html).
- 
-[Privilege Walk Project Course Web Page](./projects/Privilege-Walk-Project/index.html).
+You can find the [CS 400 Privilege Walk Project course website here](https://ycpcs.github.io/cs400-fall2022-PW).
 
-[RevMetrix Project Course Web Page](./projects/RevMetrix-Project/index.html).
-
-[YCPHacks Website Project Course Web Page](./projects/YCPHacks-Website-Project/index.html).
+You can find the [CS 400 YCAS Radio Telescope Project course website here](https://ycpcs.github.io/cs400-fall2022-RT).
 
 
 ## Links
@@ -44,6 +40,8 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 * 11-14-22: On Monday, 11-21-22, you will be giving your status update to your clients: Tyler Franks & David McHugh 
 
+-->
+
 * 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Monday, 11-14-22, with presentation and demo during class
 
 * 9-29-22: Mid-Semester Peer Evals are due Wednesday, 10-26-22 by Noon, via email in PDF form
@@ -60,10 +58,8 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 * 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
 
--->
+* 8-20-22: Project teams will meet on a weekly basis for status report, and assignment and Milestone presentations on Fridays **in-person** in KEC 123.  Mondays & Wednesdays will be reserved for team project work days to be arranged amongst yourselves.
 
-* 8-20-23: CS400 meets on M-W-F from 9:00a to 10:15a.  Each project team will meet on a weekly basis in KEC 119 for status reports, and assignment and Milestone presentations on a week day to be assigned.  The remaining two weekly class sessions for each team will be reserved for team project work days in KEC 118.
+* 8-12-22: All students in CS 400 will be meeting on the first day of class (Mon, 8-22-22) in KEC 123 to go over the syllabus and requirements for the course.  We will also determine the regular meeting days for the various CS400 teams, and meet again later in the week on those days.  The Radio Telescope and Privilege Walk teams will likely have a longer meeting time this Monday, as those are established projects.
 
-* 8-20-22: All students in CS400 will be meeting on the first day of class (Mon, 8-21-23) in KEC 119 to go over the syllabus and requirements for the course.  We will briefly introduce the cpasotne projects, and discuss their skills sets, tasks, and requirements.  The rest of the the first week will be devoted to further describing the team projects, meeting yourproject clients, and in determining individual interest in those ptojects.
-
-* 8-20-23: Welcome back to Kinsley Engineering Center and CS400 - where your academic endeavors converge (and/or collide) with the real world.  And where you will discover just how "pesky" real world clients can be... :-)
+* 8-12-22: Welcome back to Kinsley Engineering Center...  :-)
