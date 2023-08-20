@@ -16,7 +16,7 @@ This is the web page for the Privilege Walk Project for CS 400 Fall 2023 at [Yor
 
 ## Links
 
-* (CS400-Fa23 Website](../../index.html)
+* [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
 
