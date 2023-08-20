@@ -31,7 +31,7 @@ This is the third year for the Privilege Walk project, with a faculty members fr
 
 You will be continuing development of this project, building upon the accomplishments of last year's CS Capstone I (CS400) and Capstone II (CS402) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your client, as well as from the prior team's progress (Final Technical Reports from CS400 and CS402).  Your client will also establish your tasks and priorities in consultation with us, and with your input, as you plan and develop the sprint schedule for your agile development approach.
 
-This project will likely be a single team of 3-4 members focusing mainly on the administrative tasks for the Privilege Walk project.  However, you willlikely need to make tweaks, adjsutments, and/or add new features to the following areas:
+This project will likely be a single team of 3-4 members focusing mainly on the administrative tasks for the Privilege Walk project.  However, you will likely need to make tweaks, adjsutments, and/or add new features to the following areas:
 - Front End (UI / UX)
 - Backend and Database
 - Data Visualization
