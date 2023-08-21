@@ -62,8 +62,8 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 -->
 
-* 8-20-23: CS400 meets on M-W-F from 9:00a to 10:15a.  Each project team will meet on a weekly basis in KEC 119 for status reports, and assignment and Milestone presentations on a week day to be assigned.  The remaining two weekly class sessions for each team will be reserved for team project work days in KEC 118.
+* 8-21-23: CS400 meets on M-W-F from 9:00a to 10:15a.  Each project team will meet on a weekly basis in KEC 119 for status reports, and assignment and Milestone presentations on a week day to be assigned.  The remaining two weekly class sessions for each team will be reserved for team project work days in KEC 118.
 
-* 8-20-22: All students in CS400 will be meeting on the first day of class (Mon, 8-21-23) in KEC 119 to go over the syllabus and requirements for the course.  We will briefly introduce the cpasotne projects, and discuss their skills sets, tasks, and requirements.  The rest of the the first week will be devoted to further describing the team projects, meeting yourproject clients, and in determining individual interest in those ptojects.
+* 8-21-23: All students in CS400 will be meeting on the first day of class (Mon, 8-21-23) in KEC 119 to go over the syllabus and requirements for the course.  We will briefly introduce the cpasotne projects, and discuss their skills sets, tasks, and requirements.  The rest of the the first week will be devoted to further describing the team projects, meeting yourproject clients, and in determining individual interest in those ptojects.
 
-* 8-20-23: Welcome back to Kinsley Engineering Center and CS400 - where your academic endeavors converge (and/or collide) with the real world.  And where you will discover just how "pesky" real world clients can be... :-)
+* 8-21-23: Welcome back to Kinsley Engineering Center and CS400 - where your academic endeavors converge (and/or collide) with the real world.  And where you will discover just how "pesky" real world clients can be... :-)
