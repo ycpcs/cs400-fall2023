@@ -27,7 +27,7 @@ Here are links to two descriptions of the Privilege Walk exercise:
   - [OpenSource.com Privilege Walk Exercise](https://opensource.com/open-organization/17/11/privilege-walk-exercise)
   - [EIU Privilege Walk Exercise](https://www.eiu.edu/eiu1111/Privilege%20Walk%20Exercise-%20Transfer%20Leadership%20Institute-%20Week%204.pdf)
 
-This is the third year for the Privilege Walk project, with a faculty members from the York College Psychology program serving as your client [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find the initial project requirements [here](PrivilegeWalkApplicationDescription.pdf).
+This is the third year for the Privilege Walk project, with a faculty member from the York College Psychology program serving as your client [Dr. Randi Shedlosky](https://www.ycp.edu/academics/school-of-behavioral-sciences-and-education/faculty/shedlosky-shoemaker-randi.php).  You will find the initial project requirements [here](PrivilegeWalkApplicationDescription.pdf).
 
 You will be continuing development of this project, building upon the accomplishments of last year's CS Capstone I (CS400) and Capstone II (CS402) teams.  You will acquire the information for your project proposal, Use Cases and User Stories, and Requirements from your client, as well as from the prior team's progress (Final Technical Reports from CS400 and CS402).  Your client will also establish your tasks and priorities in consultation with us, and with your input, as you plan and develop the sprint schedule for your agile development approach.
 
@@ -35,6 +35,8 @@ This project will likely be a single team of 3-4 members focusing mainly on the 
 - Front End (UI / UX)
 - Backend and Database
 - Data Visualization
+
+You wil be working under the supervision of Ricky Dean, a member of last year's Privilege Walk Project Team.
 
 This project will again span two semesters: CS400 (Fall 2023) and CS402 (Spring 2024).  We highly recommend that you continue working on this project in CS402 in the Spring, as it will provide you with a valuable year-long, comprehensive, client-based, team project experience, and CS402 counts as a CS elective toward your CS major requirements.
 
