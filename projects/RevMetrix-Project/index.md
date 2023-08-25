@@ -23,8 +23,8 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 ## RevMetrix Project Description
 Here are links to the previous research that Professor Hake conducted as part of his Master's Theses.
 
-[RevMetrix MEng ESci Thesis](Hake-MEng-ESci-Masters-Thesis.pdf)
-[RevMetrix MEng ESci Final Presentation](Hake-MEng-ESci-Masters-Defense-Presentation.pdf)
+[RevMetrix MEng ESci Thesis](./Hake-MEng-ESci-Masters-Thesis.pdf)
+[RevMetrix MEng ESci Final Presentation](./Hake-MEng-ESci-Masters-Defense-Presentation.pdf)
 
 To be continued...
 
