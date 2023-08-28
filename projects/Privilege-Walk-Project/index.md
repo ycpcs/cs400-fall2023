@@ -19,7 +19,6 @@ This is the web page for the Privilege Walk Project for CS 400 Fall 2023 at [Yor
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [Privilege Walk Project Team](CS400-Fa23-PrivilegeWalk-Project-Team.pdf)
 
 ## Privilege Walk Project Description
 The Privilege Walk exercise demonstrates how your specific collection of characteristics, aspects, and events in your life can accelerate or hinder your progress and achievments in life, relative to other people with a different collection of those charactersitics, aspects, and events.  It is intended to initiate and facilitate a meaningful dialog on impacts of privilege, diversity, and inclusion among various groups of people.

@@ -19,7 +19,6 @@ This is the web page for the RevMetrix Project for CS 400 Fall 2023 at [York Col
 * [CS400-Fa23 Website](../../index.html)
 * [Syllabus](../../syllabus.html)
 * [Schedule](schedule.html)
-* [RevMetrix Project Team](CS400-Fa23-RevMetrix-Project-Team.pdf)
 
 
 ## RevMetrix Project Description
