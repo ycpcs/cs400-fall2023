@@ -62,4 +62,6 @@ To be continued...
 
 -->
 
+* 8-27-23: Links for Professor Hake's RevMetrix research (both MEng ESci thesis and Final Presentation) have been posted above.  We will discuss which sections are directly relevant for this semester's work.
+
 [General CS400 Fall 2023 News](../../index.html)
