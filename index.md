@@ -62,7 +62,7 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 -->
 
-* 8-27-23: Dr. Babcock and Professor Hake made the The Capstone Project team assignments.  You can find the link for the project team members for each project on the respective project page.
+* 8-27-23: Dr. Babcock and Professor Hake made the The Capstone Project team assignments.  You can find the project team members for each project on Canvas.
 
 * 8-21-23: CS400 meets on M-W-F from 9:00a to 10:15a.  Each project team will meet on a weekly basis in KEC 119 for status reports, and assignment and Milestone presentations on a week day to be assigned.  The remaining two weekly class sessions for each team will be reserved for team project work days in KEC 118.
 
