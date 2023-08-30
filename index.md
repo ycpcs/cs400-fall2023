@@ -28,8 +28,6 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 ## Links
 
 * [Syllabus](syllabus.html)
-* [Schedule](schedule.html)
-
 
 ## News
 <!-- Commenting out News until it's needed - and the dates could change, anyway

@@ -34,7 +34,7 @@ You will also each maintain a Weekly Journal as a shared Google doc on your team
 
 They are due by 9:00am (before class) on the day of your project presentations, and **MUST** address the following points:
 
-* A self-assessment grade (0-5) on the work you accomplished over the past week that will be justified by the subsequent points
+* **A self-assessment grade (0-5) on the work you accomplished over the past week that will be justified by the subsequent points**
 * Briefly what your TEAM accomplished in the past week
 * In more detail, describe What YOU accomplished over the past week
 * List the challenges you faced that impeded your progress, and explain how you dealt with them
