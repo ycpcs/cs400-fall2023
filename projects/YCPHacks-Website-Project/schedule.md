@@ -8,8 +8,8 @@ This is the assignment schedule for the Fall 2023 CS400 YCPHacks Website Project
 
 **Assignment** | **Due**
 :--------------|:---------
-[[Assignment 1: Project Proposal](assign/assign01.html)<br>[Assignment 1: Readiness Demo](assign/assign01.html)  | TBD by 9:00am (prior to class): Proposal Presentation and Readiness Demo during class
-[Assignment 2: Weekly Journal Updates](assign/assign02.html)<br>[Assignment 2: Team Status Reports](assign/assign02.html) | Every (fill in weekday) by 9:00am (prior to class): Updated on Google Drive<br> ???, (fill in dates): Status Reports presented during class period
+[[Assignment 1: Project Proposal](../../assign/assign01.html)<br>[Assignment 1: Readiness Demo](../../assign/assign01.html)  | Wednesday, Sept 6 by 9:00am (prior to class): Proposal Presentation and Readiness Demo during class
+[Assignment 2: Weekly Journal Updates](../../assign/assign02.html)<br>[Assignment 2: Team Status Reports](../../assign/assign02.html) | Every Wednesday by 9:00am (prior to class): Updated on Google Drive<br> ???, (fill in dates): Status Reports presented during class period
 [Assignment 3: Requirements](assign/assign03.html)                         | TBD by 9:00am: (prior to class): Presentation during class period
 [Assignment 4: Analysis and Design](assign/assign04.html)                  | TBD by 9:00am: (prior to class): Presentation during class period
 [Assignment 5: Minimal Working System](assign/assign05.html)               | TBD: Milestone 1 Presentation and Demo during class period<br>TBD by Noon: Mid-Term Peer Evals due
