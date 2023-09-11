@@ -20,6 +20,7 @@ This is a **Team** assignment.
 
 Your goal is to create UML design model(s) and database schema(s) that provide a good framework to build upon.  Your initial design model will:
 
+- A high-level system architecture block diagram that indicates the purpose of your major sub-systems of your design, and how they relate, interact, and/or communicate
 - Include all important core data model classes (the classes representing the most important concepts in the problem domain), include interface classes that facilitate communication between system components
 - Include *basic* user interface classes for the minimal working system
 - Have sufficient methods to adequately describe the behaviors of each class
@@ -40,9 +41,10 @@ If your UML and/or OO modeling skills are rusty, **please see us**.  The ability
 
 Your work will be graded as follows:
 
+- High level system block diagram: **5%**
 - Includes most important classes (model, view, and controller): **20%**
 - Shows relationships between classes: **15%**
-- Separates model classes from UI classes: **15%**
+- Separates model classes from UI classes: **10%**
 - Appropriate methods to indicate behavior: **10%**
 - Database Schema: **20%**
 - Writing quality and organization of Design Document: **10%**
