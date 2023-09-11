@@ -59,6 +59,7 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 * 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
 
 -->
+* 9-11-23: The due dates for your project's [Requirements (assign03)](./assign/assign03.html) and [Analysis & Design (assign04)](./assign/assign04.html) have been posted.  Check your respective project page for details.
 
 * 8-27-23: Dr. Babcock and Professor Hake made the The Capstone Project team assignments.  You can find the project team members for each project on Canvas.
 
