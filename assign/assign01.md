@@ -76,14 +76,15 @@ Please note that you are **NOT** required to use one of the provided lab PCs: yo
 
 # Grading
 
-* Proposal:
+* Proposal (55%):
 
-  - Clarity and thoroughness: **15%**
+  - Clarity and thoroughness: **10%**
   - Significance of idea: **15%**
   - Feasibility of idea: **15%**
-  - Writing quality: **10%**
+  - Writing quality: **5%**
+  - Presentation: **10**
 
-* Repository setup:
+* Repository setup (35%):
 
   - Repository created: **10%**
   - Members, instructors, clients, and mentors added as contributors: **5%**
