@@ -4,15 +4,17 @@ Suburban Bowlerama (8-29-10):
 NOTES:
 The RevMetrix Thesis PDF provides detailed information on the EEPROM memory map, and how to decode the contents.  The RevMetrix Thesis Defence Presentation PDF provides a more concise explanation, but leaves out some of the specific details.
 
+See the companion Excel Spreadsheet for graphical representation of the raw data for each Ball Record.
+
 Shots 0 and 1 (Ball Records 0 and 1) were deleted (overwritten) during the session - that is why their Ball Pointer Page entries contain <20 00> at the end of the session.
 
-All converted time stamps are relative to the start time of the Ball Record
+All converted time stamps are relative to the start time of the Ball Record.
 
 All Ball Record addresses are relative to the end of the Ball Pointer Page, they are not the absolute addresses for their location in the SmartDot EEPROM memory.
 
-In order to recreate the EEPROM memory contents, multiply the Ball Pointer Page value for each Ball Record by 128 (page size), and then add the given addresses from each data page (Ball Page, Light Page, ADXL Page) to the starting Ball Record address (substracting the 100h offset)
+In order to recreate the EEPROM memory contents, multiply the Ball Pointer Page value for each Ball Record by 128 (page size), and then add the given addresses from each data page (Ball Page, Light Page, ADXL Page) to the starting Ball Record address (substracting the 100h offset).
 
-All converted Light Samples should be multiplied by 8, which will convert them to integers from 0 to 255 (they should not be decimal values)
+All converted Light Samples should be multiplied by 8, which will convert them back to integers in the range from 0 to 255 (they should not be decimal values).  They were "normalized" for graphing purposes to have a similar range of values as the ADXL readings.
 
 
 EEPROM Contents (in HEX)
