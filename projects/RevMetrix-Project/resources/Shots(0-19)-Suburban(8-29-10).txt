@@ -1,5 +1,17 @@
 Suburban Bowlerama (8-29-10):
    Shots 0-19 Raw Data
+   
+NOTES:
+Shots 0 and 1 (Ball Records 0 and 1) were deleted (overwritten) during the session - that is why their Ball Pointer Page entries contain <20 00> at the end of the session.
+
+All converted time stamps are relative to the start time of the Ball Record
+
+All Ball Record addresses are relative to the end of the Ball Pointer Page, they are not the absolute addresses for their location in the SmartDot EEPROM memory.
+
+In order to recreate the EEPROM memory contents, multiply the Ball Pointer Page value for each Ball Record by 128 (page size), and then add the given addresses from each data page (Ball Page, Light Page, ADXL Page) to the starting Ball Record address (substracting the 100h offset)
+
+All converted Light Samples should be multiplied by 8, which will convert them to integers from 0 to 255 (they should not be decimal values)
+
 
 EEPROM Contents (in HEX)
 
@@ -78,7 +90,7 @@ Ball Pointer Page (at end of session)
 00F8: 00 00 00 00 00 00 86 00 
 
 
-Ball Record: 00002  Date: 08-30-2010  Time: 17:44:20
+Ball Record: 00002  Date: 08-29-2010  Time: 17:44:20
 Total Sample Time: 15.742 secs
 
 ADXL Sample Frequency: 204.876 Hz
@@ -3216,7 +3228,7 @@ ADXL Page 00002-53
 0EF8: 0F EE CA D0 15 0B EE CB
 
 
-Ball Record: 00003  Date: 08-30-2010  Time: 17:45:05
+Ball Record: 00003  Date: 08-29-2010  Time: 17:45:05
 Total Sample Time: 14.279 secs
 
 ADXL Sample Frequency: 204.834 Hz
@@ -6294,7 +6306,7 @@ ADXL Page 00003-53
 0EF8: 7F F0 CF 23 17 77 F0 CF
 
 
-Ball Record: 00004  Date: 08-30-2010  Time: 17:45:28
+Ball Record: 00004  Date: 08-29-2010  Time: 17:45:28
 Total Sample Time: 07.079 secs
 
 ADXL Sample Frequency: 204.834 Hz
@@ -7902,7 +7914,7 @@ ADXL Page 00004-29
 0178: 47 FC 02 4B 06 BD FC 01
 
 
-Ball Record: 00005  Date: 08-30-2010  Time: 17:46:02
+Ball Record: 00005  Date: 08-29-2010  Time: 17:46:02
 Total Sample Time: 17.086 secs
 
 ADXL Sample Frequency: 204.834 Hz
@@ -11137,7 +11149,7 @@ ADXL Page 00005-54
 0FF8: C6 F8 E4 92 00 51 EE E8
 
 
-Ball Record: 00006  Date: 08-30-2010  Time: 17:46:49
+Ball Record: 00006  Date: 08-29-2010  Time: 17:46:49
 Total Sample Time: 16.600 secs
 
 ADXL Sample Frequency: 204.834 Hz
@@ -14251,7 +14263,7 @@ ADXL Page 00006-53
 0EF8: 7A F5 CF 23 12 7F F5 CF
 
 
-Ball Record: 00007  Date: 08-30-2010  Time: 17:47:38
+Ball Record: 00007  Date: 08-29-2010  Time: 17:47:38
 Total Sample Time: 14.891 secs
 
 ADXL Sample Frequency: 204.834 Hz
@@ -17220,7 +17232,7 @@ ADXL Page 00007-52
 0DF8: 8D F4 BF C0 14 8D F4 BF
 
 
-Ball Record: 00008  Date: 08-30-2010  Time: 17:49:02
+Ball Record: 00008  Date: 08-29-2010  Time: 17:49:02
 Total Sample Time: 16.358 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -20267,7 +20279,7 @@ ADXL Page 00008-52
 0E78: 71 18 D8 51 14 F5 F5 C5
 
 
-Ball Record: 00009  Date: 08-30-2010  Time: 17:49:53
+Ball Record: 00009  Date: 08-29-2010  Time: 17:49:53
 Total Sample Time: 15.015 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -23266,7 +23278,7 @@ ADXL Page 00009-52
 0E78: F3 F7 B9 FB 14 DC F7 B9
 
 
-Ball Record: 00010  Date: 08-30-2010  Time: 17:50:17
+Ball Record: 00010  Date: 08-29-2010  Time: 17:50:17
 Total Sample Time: 06.837 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -24915,7 +24927,7 @@ ADXL Page 00010-28
 00F8: B1 FD FF 9A 06 B5 FD FF
 
 
-Ball Record: 00011  Date: 08-30-2010  Time: 17:51:21
+Ball Record: 00011  Date: 08-29-2010  Time: 17:51:21
 Total Sample Time: 15.016 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -27957,7 +27969,7 @@ ADXL Page 00011-53
 0EF8: 18 EF CA 62 20 22 F2 C6
 
 
-Ball Record: 00012  Date: 08-30-2010  Time: 17:53:00
+Ball Record: 00012  Date: 08-29-2010  Time: 17:53:00
 Total Sample Time: 15.748 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -31095,7 +31107,7 @@ ADXL Page 00012-53
 0EF8: 27 F6 C7 08 11 1E F6 C7
 
 
-Ball Record: 00013  Date: 08-30-2010  Time: 17:53:49
+Ball Record: 00013  Date: 08-29-2010  Time: 17:53:49
 Total Sample Time: 18.191 secs
 
 ADXL Sample Frequency: 204.750 Hz
@@ -34118,7 +34130,7 @@ ADXL Page 00013-52
 0E78: 78 F0 BF F1 14 85 F0 BF
 
 
-Ball Record: 00014  Date: 08-30-2010  Time: 17:55:31
+Ball Record: 00014  Date: 08-29-2010  Time: 17:55:31
 Total Sample Time: 15.260 secs
 
 ADXL Sample Frequency: 204.792 Hz
@@ -37239,7 +37251,7 @@ ADXL Page 00014-54
 0F78: 07 F1 C6 12 13 31 F4 C8 
 
 
-Ball Record: 00015  Date: 08-30-2010  Time: 17:56:13
+Ball Record: 00015  Date: 08-29-2010  Time: 17:56:13
 Total Sample Time: 15.018 secs
 
 ADXL Sample Frequency: 204.750 Hz
@@ -40462,7 +40474,7 @@ ADXL Page 00015-54
 0FF8: F3 F1 C2 D8 12 F7 F1 C2 
 
 
-Ball Record: 00016  Date: 08-30-2010  Time: 17:58:13
+Ball Record: 00016  Date: 08-29-2010  Time: 17:58:13
 Total Sample Time: 14.408 secs
 
 ADXL Sample Frequency: 204.750 Hz
@@ -43595,7 +43607,7 @@ ADXL Page 00016-54
 0F78: 73 2F 30 28 4D A2 48 42 
 
 
-Ball Record: 00017  Date: 08-30-2010  Time: 17:58:37
+Ball Record: 00017  Date: 08-29-2010  Time: 17:58:37
 Total Sample Time: 05.495 secs
 
 ADXL Sample Frequency: 204.750 Hz
@@ -45251,7 +45263,7 @@ ADXL Page 00017-29
 0178: 5D 03 01 18 F8 0C 04 02 
 
 
-Ball Record: 00018  Date: 08-30-2010  Time: 17:58:55
+Ball Record: 00018  Date: 08-29-2010  Time: 17:58:55
 Total Sample Time: 15.508 secs
 
 ADXL Sample Frequency: 204.750 Hz
@@ -48353,7 +48365,7 @@ ADXL Page 00018-53
 0EF8: 82 F4 BA A8 16 95 F4 BA 
 
 
-Ball Record: 00019  Date: 08-30-2010  Time: 17:59:21
+Ball Record: 00019  Date: 08-29-2010  Time: 17:59:21
 Total Sample Time: 07.083 secs
 
 ADXL Sample Frequency: 204.750 Hz
