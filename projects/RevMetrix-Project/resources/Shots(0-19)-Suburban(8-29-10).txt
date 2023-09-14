@@ -1,10 +1,9 @@
 Suburban Bowlerama (8-29-10):
    Shots 0-19 Raw Data
- 
 
 EEPROM Contents (in HEX)
 
-Config Page (start of session)
+Config Page (at start of session)
 0000: 20 00 10 01 01 42 4C 55 
 0008: 45 20 44 4F 54 00 00 F4 
 0010: D2 44 48 01 3D B9 80 00 
@@ -22,7 +21,7 @@ Config Page (start of session)
 0070: 00 00 00 00 00 00 00 00 
 0078: 00 00 00 00 00 00 2B 9A 
 
-Ball Pointer Page (start of session)
+Ball Pointer Page (at start of session)
 0080: 30 00 00 02 00 00 00 00 
 0088: 00 00 00 00 00 00 00 00 
 0090: 00 00 00 00 00 00 00 00 
@@ -42,7 +41,7 @@ Ball Pointer Page (start of session)
 
 EEPROM Contents (in HEX)
 
-Config Page (end of session)
+Config Page (at end of session)
 0000: 20 00 10 01 01 42 4C 55 
 0008: 45 20 44 4F 54 00 00 F4 
 0010: D2 44 48 01 3D B9 80 00 
@@ -60,7 +59,7 @@ Config Page (end of session)
 0070: 00 00 00 00 00 00 00 00 
 0078: 00 00 00 00 00 00 AA A2 
 
-Ball Pointer Page (end of session)
+Ball Pointer Page (at end of session)
 0080: 30 00 20 00 20 00 C0 7D 
 0088: C0 B9 C0 F5 C1 16 C1 54 
 0090: C1 90 C1 CA C2 05 C2 40 
@@ -2134,7 +2133,7 @@ Time Stamp, Light
 15.723842, 00.125
 15.732143, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00002
 
 Ball Page 00002-00
 0100: C0 7C BF 19 60 00 02 6A 
@@ -3214,7 +3213,9 @@ ADXL Page 00002-53
 0EE0: EE CA B8 15 30 EE CB C3 
 0EE8: 15 2F EE CA C8 15 19 EE 
 0EF0: CB C8 15 18 EE CB D3 15 
-0EF8: 0F EE CA D0 15 0B EE CB 
+0EF8: 0F EE CA D0 15 0B EE CB
+
+
 Ball Record: 00003  Date: 08-30-2010  Time: 17:45:05
 Total Sample Time: 14.279 secs
 
@@ -5210,7 +5211,7 @@ Time Stamp, Light
 14.227456, 00.125
 14.235755, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00003
 
 Ball Page 00003-00
 0100: C0 7C D5 18 F8 00 03 6A 
@@ -6290,7 +6291,9 @@ ADXL Page 00003-53
 0EE0: F0 CF 1B 17 7E F0 CF 1B 
 0EE8: 17 86 F0 CF 23 17 77 F0 
 0EF0: CF 18 17 79 F0 D0 13 17 
-0EF8: 7F F0 CF 23 17 77 F0 CF 
+0EF8: 7F F0 CF 23 17 77 F0 CF
+
+
 Ball Record: 00004  Date: 08-30-2010  Time: 17:45:28
 Total Sample Time: 07.079 secs
 
@@ -7302,7 +7305,7 @@ Time Stamp, Light
 07.056651, 00.625
 07.064950, 00.562
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00004
 
 Ball Page 00004-00
 0100: C0 7C DE E0 80 00 04 6A 
@@ -7896,7 +7899,9 @@ ADXL Page 00004-29
 0160: FC 01 8B 07 A5 FB 01 18 
 0168: 07 E8 FB 02 D2 05 B4 FC 
 0170: 01 63 06 82 FC 01 38 07 
-0178: 47 FC 02 4B 06 BD FC 01 
+0178: 47 FC 02 4B 06 BD FC 01
+
+
 Ball Record: 00005  Date: 08-30-2010  Time: 17:46:02
 Total Sample Time: 17.086 secs
 
@@ -10013,7 +10018,7 @@ Time Stamp, Light
 17.016933, 00.125
 17.025232, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00005
 
 Ball Page 00005-00
 0100: C0 7C F2 F7 DF 00 05 6A 
@@ -11129,7 +11134,9 @@ ADXL Page 00005-54
 0FE0: 43 C2 21 6C 73 32 C1 A1 
 0FE8: 15 57 FC E0 FB 0D 7B F9 
 0FF0: E3 4B 16 D9 EE E0 71 0D 
-0FF8: C6 F8 E4 92 00 51 EE E8 
+0FF8: C6 F8 E4 92 00 51 EE E8
+
+
 Ball Record: 00006  Date: 08-30-2010  Time: 17:46:49
 Total Sample Time: 16.600 secs
 
@@ -13161,7 +13168,7 @@ Time Stamp, Light
 16.523358, 00.125
 16.531657, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00006
 
 Ball Page 00006-00
 0100: C0 7D 0A 7B 12 00 06 6A 
@@ -14241,7 +14248,9 @@ ADXL Page 00006-53
 0EE0: F5 CF 33 12 82 F5 CF 3B 
 0EE8: 12 91 F5 CF 2B 12 7B F5 
 0EF0: CF 2B 12 85 F5 CF 23 12 
-0EF8: 7A F5 CF 23 12 7F F5 CF 
+0EF8: 7A F5 CF 23 12 7F F5 CF
+
+
 Ball Record: 00007  Date: 08-30-2010  Time: 17:47:38
 Total Sample Time: 14.891 secs
 
@@ -16164,7 +16173,7 @@ Time Stamp, Light
 14.825277, 00.937
 14.833576, 00.437
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00007
 
 Ball Page 00007-00
 0100: C0 7D 21 FD C9 00 07 6A 
@@ -17208,7 +17217,9 @@ ADXL Page 00007-52
 0DE0: F4 BF C1 14 A8 F4 BF B9 
 0DE8: 14 90 F4 BF C0 14 9F F4 
 0DF0: BF C1 14 99 F4 BF B8 14 
-0DF8: 8D F4 BF C0 14 8D F4 BF 
+0DF8: 8D F4 BF C0 14 8D F4 BF
+
+
 Ball Record: 00008  Date: 08-30-2010  Time: 17:49:02
 Total Sample Time: 16.358 secs
 
@@ -19191,7 +19202,7 @@ Time Stamp, Light
 16.321135, 03.125
 16.329435, 01.312
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00008
 
 Ball Page 00008-00
 0100: C0 7D 4C C3 85 00 08 6A 
@@ -20253,7 +20264,9 @@ ADXL Page 00008-52
 0E60: F4 C4 88 14 A4 F4 C4 80 
 0E68: 14 97 F4 C4 88 14 87 F4 
 0E70: C4 90 14 87 F4 C4 42 12 
-0E78: 71 18 D8 51 14 F5 F5 C5 
+0E78: 71 18 D8 51 14 F5 F5 C5
+
+
 Ball Record: 00009  Date: 08-30-2010  Time: 17:49:53
 Total Sample Time: 15.015 secs
 
@@ -22188,7 +22201,7 @@ Time Stamp, Light
 14.926592, 00.125
 14.934892, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00009
 
 Ball Page 00009-00
 0100: C0 7D 65 B3 C4 00 09 6A 
@@ -23250,7 +23263,9 @@ ADXL Page 00009-52
 0E60: F7 B9 EB 14 F0 F7 B9 FB 
 0E68: 14 EB F7 B9 EB 14 EB F7 
 0E70: B9 EB 14 F0 F7 B9 E3 14 
-0E78: F3 F7 B9 FB 14 DC F7 B9 
+0E78: F3 F7 B9 FB 14 DC F7 B9
+
+
 Ball Record: 00010  Date: 08-30-2010  Time: 17:50:17
 Total Sample Time: 06.837 secs
 
@@ -24321,7 +24336,7 @@ Time Stamp, Light
 06.758447, 00.500
 06.766747, 00.500
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00010
 
 Ball Page 00010-00
 0100: C0 7D 6E EE D7 00 0A 6A 
@@ -24897,7 +24912,9 @@ ADXL Page 00010-28
 00E0: FE FF 73 07 34 FE FF 53 
 00E8: 08 E4 FD FF FB 08 92 FD 
 00F0: FF 93 08 78 FD FF 43 07 
-00F8: B1 FD FF 9A 06 B5 FD FF 
+00F8: B1 FD FF 9A 06 B5 FD FF
+
+
 Ball Record: 00011  Date: 08-30-2010  Time: 17:51:21
 Total Sample Time: 15.016 secs
 
@@ -26857,7 +26874,7 @@ Time Stamp, Light
 14.925726, 00.312
 14.934027, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00011
 
 Ball Page 00011-00
 0100: C0 7D 91 AA 63 00 0B 6A 
@@ -27937,7 +27954,9 @@ ADXL Page 00011-53
 0EE0: EF CA C0 15 12 EF CA C0 
 0EE8: 15 39 EF CA C0 15 38 EF 
 0EF0: CA B8 15 30 EF CA B8 15 
-0EF8: 18 EF CA 62 20 22 F2 C6 
+0EF8: 18 EF CA 62 20 22 F2 C6
+
+
 Ball Record: 00012  Date: 08-30-2010  Time: 17:53:00
 Total Sample Time: 15.748 secs
 
@@ -29993,7 +30012,7 @@ Time Stamp, Light
 15.723240, 00.312
 15.731540, 00.437
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00012
 
 Ball Page 00012-00
 0100: C0 7D C3 49 F3 00 0C 6A 
@@ -31073,7 +31092,9 @@ ADXL Page 00012-53
 0EE0: F6 C7 00 11 3B F6 C7 F0 
 0EE8: 10 14 F6 C7 F8 10 27 F6 
 0EF0: C7 09 11 21 F6 C7 F0 10 
-0EF8: 27 F6 C7 08 11 1E F6 C7 
+0EF8: 27 F6 C7 08 11 1E F6 C7
+
+
 Ball Record: 00013  Date: 08-30-2010  Time: 17:53:49
 Total Sample Time: 18.191 secs
 
@@ -33032,7 +33053,7 @@ Time Stamp, Light
 18.114513, 00.125
 18.122812, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00013
 
 Ball Page 00013-00
 0100: C0 7D DD 3F A1 00 0D 6A 
@@ -34094,7 +34115,9 @@ ADXL Page 00013-52
 0E60: F0 BF E1 14 94 F0 BF EA 
 0E68: 14 80 F0 BF EA 14 89 F0 
 0E70: BF F1 14 96 F0 BF FA 14 
-0E78: 78 F0 BF F1 14 85 F0 BF 
+0E78: 78 F0 BF F1 14 85 F0 BF
+
+
 Ball Record: 00014  Date: 08-30-2010  Time: 17:55:31
 Total Sample Time: 15.260 secs
 
@@ -36115,7 +36138,7 @@ Time Stamp, Light
 15.224118, 00.375
 15.232417, 00.187
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00014
 
 Ball Page 00014-00
 0100: C0 7E 0E 80 D9 00 0E 6A 
@@ -37214,6 +37237,8 @@ ADXL Page 00014-54
 0F68: 13 F4 F3 C7 BB 13 0D F4 
 0F70: C7 38 E7 A4 D0 B3 B0 0E 
 0F78: 07 F1 C6 12 13 31 F4 C8 
+
+
 Ball Record: 00015  Date: 08-30-2010  Time: 17:56:13
 Total Sample Time: 15.018 secs
 
@@ -39318,7 +39343,7 @@ Time Stamp, Light
 14.925427, 00.125
 14.933726, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00015
 
 Ball Page 00015-00
 0100: C0 7E 23 2E 72 00 0F 6A 
@@ -40435,6 +40460,8 @@ ADXL Page 00015-54
 0FE8: 12 F0 F1 C2 D1 12 E8 F1 
 0FF0: C2 D9 12 F1 F1 C2 D9 12 
 0FF8: F3 F1 C2 D8 12 F7 F1 C2 
+
+
 Ball Record: 00016  Date: 08-30-2010  Time: 17:58:13
 Total Sample Time: 14.408 secs
 
@@ -42467,7 +42494,7 @@ Time Stamp, Light
 14.330951, 01.437
 14.339250, 05.000
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00016
 
 Ball Page 00016-00
 0100: C0 7E 5F 36 07 00 10 6A 
@@ -43566,6 +43593,8 @@ ADXL Page 00016-54
 0F68: 13 62 F5 B6 30 12 CB F3 
 0F70: B5 21 12 E0 F3 B5 D0 36 
 0F78: 73 2F 30 28 4D A2 48 42 
+
+
 Ball Record: 00017  Date: 08-30-2010  Time: 17:58:37
 Total Sample Time: 05.495 secs
 
@@ -44625,7 +44654,7 @@ Time Stamp, Light
 05.464277, 00.625
 05.472580, 00.625
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00017
 
 Ball Page 00017-00
 0100: C0 7E 68 12 33 00 11 6A 
@@ -45220,6 +45249,8 @@ ADXL Page 00017-29
 0168: FB CE 02 02 B1 F9 F9 03 
 0170: 03 A8 F8 29 04 03 8A F9 
 0178: 5D 03 01 18 F8 0C 04 02 
+
+
 Ball Record: 00018  Date: 08-30-2010  Time: 17:58:55
 Total Sample Time: 15.508 secs
 
@@ -47239,7 +47270,7 @@ Time Stamp, Light
 15.423694, 00.125
 15.431995, 00.125
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00018
 
 Ball Page 00018-00
 0100: C0 7E 74 91 86 00 12 6A 
@@ -48320,6 +48351,8 @@ ADXL Page 00018-53
 0EE8: 16 5E F4 B9 6A 0A 40 F1 
 0EF0: BF 12 13 B6 F0 B7 80 16 
 0EF8: 82 F4 BA A8 16 95 F4 BA 
+
+
 Ball Record: 00019  Date: 08-30-2010  Time: 17:59:21
 Total Sample Time: 07.083 secs
 
@@ -49306,7 +49339,7 @@ Time Stamp, Light
 07.056743, 00.687
 07.065042, 00.687
 
-EEPROM Contents (in HEX) for First New DB record
+EEPROM Contents (in HEX) for Ball Record 00019
 
 Ball Page 00019-00
 0100: C0 7E 7F 5F B5 00 13 6A 
