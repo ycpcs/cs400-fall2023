@@ -2,6 +2,8 @@ Suburban Bowlerama (8-29-10):
    Shots 0-19 Raw Data
    
 NOTES:
+The RevMetrix Thesis PDF provides detailed information on the EEPROM memory map, and how to decode the contents.  The RevMetrix Thesis Defence Presentation PDF provides a more concise explanation, but leaves out some of the specific details.
+
 Shots 0 and 1 (Ball Records 0 and 1) were deleted (overwritten) during the session - that is why their Ball Pointer Page entries contain <20 00> at the end of the session.
 
 All converted time stamps are relative to the start time of the Ball Record
