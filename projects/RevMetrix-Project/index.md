@@ -28,7 +28,11 @@ Here are links to the previous research that Professor Hake conducted as part of
 
 [RevMetrix MEng ESci Final Presentation](Hake-MEngESci-Masters-Defense-Presentation.pdf)
 
-To be continued...
+Here is a set of raw data from an actual bowling session.  There are two versions:
+
+1) A [text version](./resources/Shots(0-19)-Suburban(8-29-10).txt) that contains the EEPROM contents, as well as a CSV extraction of the raw data from those EEPROM contents.
+
+2) An [Excel spreasheet](./resources/Shots(0-19)-Suburban(8-29-10).xlsx) that also contains graphs of the extracted raw data for each shot in the session.
 
 ## News
 <!-- Commenting out YCPHacks-specific News until it's needed - and the dates could change, anyway
