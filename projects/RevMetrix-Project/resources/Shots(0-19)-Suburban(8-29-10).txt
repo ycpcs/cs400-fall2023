@@ -6,13 +6,15 @@ The RevMetrix Thesis PDF provides detailed information on the EEPROM memory map,
 
 See the companion Excel Spreadsheet for graphical representation of the raw data for each Ball Record.
 
-Shots 0 and 1 (Ball Records 0 and 1) were deleted (overwritten) during the session - that is why their Ball Pointer Page entries contain <20 00> at the end of the session.
+Shots 0 and 1 (Ball Records 0 and 1) were deleted (overwritten) during the session (by Ball Records 18 and 19).  That is why their Ball Pointer Page entries contain <20 00> at the end of the session.
 
 All converted time stamps are relative to the start time of the Ball Record.
 
-All Ball Record addresses are relative to the end of the Ball Pointer Page, they are not the absolute addresses for their location in the SmartDot EEPROM memory.
+All Ball Record addresses are shown relative to the end of the Ball Pointer Page, they are not the absolute addresses for their location in the SmartDot EEPROM memory.
 
-In order to recreate the EEPROM memory contents, multiply the Ball Pointer Page value for each Ball Record by 128 (page size), and then add the given addresses from each data page (Ball Page, Light Page, ADXL Page) to the starting Ball Record address (substracting the 100h offset).
+In order to recreate the EEPROM memory contents, multiply the Ball Pointer Page value for each Ball Record by 128 (80h) (page size), and then add the given addresses from each data page (Ball Page, Light Page, ADXL Page) to the starting Ball Record address (substracting the 100h offset).
+
+The starting PAGE # for each Ball Record (from the Ball Pointer Page) is shown with the Ball Record EEPROM contents.  Multiply that value by 0080h to get the actual starting address in EEPROM.
 
 All converted Light Samples should be multiplied by 8, which will convert them back to integers in the range from 0 to 255 (they should not be decimal values).  They were "normalized" for graphing purposes to have a similar range of values as the ADXL readings.
 
@@ -2151,7 +2153,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00002
 
-Ball Page 00002-00
+Ball Page 00002-00 (007D * 0080 = ????)
 0100: C0 7C BF 19 60 00 02 6A 
 0108: 01 3D B9 80 7C BA 1E 38 
 0110: 7C C1 FD 2E 06 36 00 00 
@@ -5229,7 +5231,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00003
 
-Ball Page 00003-00
+Ball Page 00003-00 (00B9 * 0080 = ????)
 0100: C0 7C D5 18 F8 00 03 6A 
 0108: 01 3D B9 80 7C D0 9D 6D 
 0110: 7C D7 C1 21 06 36 00 00 
@@ -7323,7 +7325,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00004
 
-Ball Page 00004-00
+Ball Page 00004-00 (00F5 * 0080 = ????)
 0100: C0 7C DE E0 80 00 04 6A 
 0108: 01 3D B9 80 7C DC 62 DE 
 0110: 7C DF EC F8 03 1E 02 02 
@@ -10036,7 +10038,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00005
 
-Ball Page 00005-00
+Ball Page 00005-00  (0116 * 0080 = ????)
 0100: C0 7C F2 F7 DF 00 05 6A 
 0108: 01 3D B9 80 7C ED 7D 46 
 0110: 7C F6 08 48 07 37 00 00 
@@ -13186,7 +13188,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00006
 
-Ball Page 00006-00
+Ball Page 00006-00 (0154 * 0080 = ????)
 0100: C0 7D 0A 7B 12 00 06 6A 
 0108: 01 3D B9 80 7D 04 FF EA 
 0110: 7D 0D 4C B2 06 36 00 00 
@@ -16191,7 +16193,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00007
 
-Ball Page 00007-00
+Ball Page 00007-00 (0190 * 0080 = ????)
 0100: C0 7D 21 FD C9 00 07 6A 
 0108: 01 3D B9 80 7D 1D 02 BE 
 0110: 7D 24 74 D6 05 35 00 00 
@@ -19220,7 +19222,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00008
 
-Ball Page 00008-00
+Ball Page 00008-00 (01CA * 0080 = ????)
 0100: C0 7D 4C C3 85 00 08 6A 
 0108: 01 3D B9 80 7D 47 48 D6 
 0110: 7D 4F 76 A8 06 35 00 00 
@@ -22219,7 +22221,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00009
 
-Ball Page 00009-00
+Ball Page 00009-00 (0205 * 0080 = ????)
 0100: C0 7D 65 B3 C4 00 09 6A 
 0108: 01 3D B9 80 7D 60 B8 94 
 0110: 7D 68 3A 7D 06 35 00 00 
@@ -24354,7 +24356,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00010
 
-Ball Page 00010-00
+Ball Page 00010-00 (0240 * 0080 = ????)
 0100: C0 7D 6E EE D7 00 0A 6A 
 0108: 01 3D B9 80 7D 6C F0 A4 
 0110: 7D 70 5B C5 03 1D 00 00 
@@ -26892,7 +26894,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00011
 
-Ball Page 00011-00
+Ball Page 00011-00 (0260 * 0080 = ????)
 0100: C0 7D 91 AA 63 00 0B 6A 
 0108: 01 3D B9 80 7D 8C AF 63 
 0110: 7D 94 31 6B 06 36 00 00 
@@ -30030,7 +30032,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00012
 
-Ball Page 00012-00
+Ball Page 00012-00 (029C * 0080 = ????)
 0100: C0 7D C3 49 F3 00 0C 6A 
 0108: 01 3D B9 80 7D BE 4E C8 
 0110: 7D C6 2E 77 06 36 00 00 
@@ -33071,7 +33073,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00013
 
-Ball Page 00013-00
+Ball Page 00013-00 (02D8 * 0080 = ????)
 0100: C0 7D DD 3F A1 00 0D 6A 
 0108: 01 3D B9 80 7D D6 C5 D6 
 0110: 7D DF DE 55 06 35 00 00 
@@ -36156,7 +36158,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00014
 
-Ball Page 00014-00
+Ball Page 00014-00 (0313 * 0080 = ????)
 0100: C0 7E 0E 80 D9 00 0E 6A 
 0108: 01 3D B9 80 7E 09 85 BE 
 0110: 7E 11 27 15 06 37 00 00 
@@ -39361,7 +39363,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00015
 
-Ball Page 00015-00
+Ball Page 00015-00 (0350 * 0080 = ????)
 0100: C0 7E 23 2E 72 00 0F 6A 
 0108: 01 3D B9 80 7E 1E B2 CB 
 0110: 7E 26 35 09 07 37 00 00 
@@ -42512,7 +42514,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00016
 
-Ball Page 00016-00
+Ball Page 00016-00 (038E * 0080 = ????)
 0100: C0 7E 5F 36 07 00 10 6A 
 0108: 01 3D B9 80 7E 5A B9 FC 
 0110: 7E 61 EE 32 06 37 00 00 
@@ -44672,7 +44674,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00017
 
-Ball Page 00017-00
+Ball Page 00017-00 (03CB * 0080 = ????)
 0100: C0 7E 68 12 33 00 11 6A 
 0108: 01 3D B9 80 7E 66 93 83 
 0110: 7E 69 52 E3 03 1E 00 00 
@@ -47288,7 +47290,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00018
 
-Ball Page 00018-00
+Ball Page 00018-00 (03EC * 0080 = ????)
 0100: C0 7E 74 91 86 00 12 6A 
 0108: 01 3D B9 80 7E 6F 96 89 
 0110: 7E 77 57 89 06 36 00 00 
@@ -49357,7 +49359,7 @@ Time Stamp, Light
 
 EEPROM Contents (in HEX) for Ball Record 00019
 
-Ball Page 00019-00
+Ball Page 00019-00 (002A * 0080 = ????)
 0100: C0 7E 7F 5F B5 00 13 6A 
 0108: 01 3D B9 80 7E 7C E2 10 
 0110: 7E 80 6C A6 03 1D 02 02 
