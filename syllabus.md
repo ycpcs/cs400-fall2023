@@ -72,11 +72,11 @@ Your **team's project grade** will represent 75% of your overall individual curs
 -   Assignment 4 - Analysis and Design - **10%**
 -   Assignment 5 - Minimal Working System - **10%**
 -   Assignment 6 - 50% Working System - **15%**
--   Assignment 7 - Final Working System (15%), Presentation (5%), Technical Report (10%) - **30%**
+-   Assignment 7 - Final Working System **(15%)**, Presentation **(5%)**, Technical Report **(10%)** - **30%**
 
 NOTE: You will be presenting your work for each of these assignments in class during your assigned team meeting day on the day they are due.  On those days that you do not have an assignment or milestone due, you will be presenting progress reports, as part of assignment 2.  Your weekly journal entries are the by 9:00a EVERY week on the day of your team meeting, immediately prior to tht meeting, regardless of what else is due that day.**
 
--	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%"
+-	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%**"
 
 **Individual course grades** will be assigned on a 100-point scale according to the following table, and will be determined on the combination of two factors:
 * Individual Contribution to Team Project (75%): Based on your team's project grade **multiplied by your individual effort factor** determined from the results of your mid-term and final peer evaluations.**
