@@ -78,8 +78,9 @@ NOTE: You will be presenting your work for each of these assignments in class du
 
 -	Assignment 8 - Professionalism, Leadership, Team Work, and Peer Evaluations - **25%**"
 
-**Individual course grades** will be assigned on a 100-point scale according to the following table, and will be determined on the combination of two factors:
-* Individual Contribution to Team Project (75%): Based on your team's project grade **multiplied by your individual effort factor** determined from the results of your mid-term and final peer evaluations.**
+**Individual course grades** will be assigned on a 100-point scale according to the following table, and will be determined on the combination of three factors:
+* Weekly Journal Entries and Status Report Presentations (20%)
+* Individual Contribution to Team Project (55%): Based on your team's project grade **multiplied by your individual effort factor** determined from the results of your mid-term and final peer evaluations.**
 * Individual Professionalism (25%): The remaining 25% of your individual course grade will be based on the levels of Professionalism, Leadership, Work Ethic, and Team Work that you exhibited throughout the semester, as determined by your instructors, and in accordance with your final peer evaluations.
 
 | Range             |  Grade   |
