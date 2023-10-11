@@ -13,5 +13,5 @@ This is the assignment schedule for the Fall 2023 CS400 YCPHacks Website Project
 [Assignment 3: Requirements](../../assign/assign03.html)                   | Wednesday, Sept 27th by 9:00am: (prior to class): Presentation during class period
 [Assignment 4: Analysis and Design](../../assign/assign04.html)            | Wednesday, Oct 11th by 9:00am: (prior to class): Presentation during class period
 [Assignment 5: Minimal Working System](assign/assign05.html)               | Wednesday, Oct 25th: Milestone 1 Presentation and Demo during class period<br>Friday, Oct 27th by Noon: Mid-Term Peer Evals due
-[Assignment 6: 50% Working System](assign/assign06.html)                   | Friday, Nov 10th: Milestone 2 Presentation and Demo during class period
+[Assignment 6: 50% Working System](assign/assign06.html)                   | Monday, Nov 13th: Milestone 2 Presentation and Demo during class period
 [Assignment 7: Final System Presentation and Report](assign/assign07.html) | Wednesday, Nov 29th by Noon: Draft Report due<br>Monday, Dec 4th (KEC 119): Final Milestone Presentation and Demo<br>Friday, Dec 8th by Noon: Final Report and Final Peer Evals due
