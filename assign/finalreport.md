@@ -8,10 +8,7 @@ This document describes what we expect to see in the final report for your team 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-
-
 ## Sections
-
 
 The report should use the following general outline:
 
@@ -21,25 +18,29 @@ The report should use the following general outline:
 -   Design
 -   Implementation
 -   Future Work
+-	References
 
-The **abstract** is a one or two paragraph synopsis of the problem your system addresses and the major features of your system. It should give the reader a concise summary of what they can expect to read about in the report.
+The **abstract** is a one to two paragraph synopsis of the problem your system addresses and the major features of your system. It should give the reader a concise summary of what they can expect to read about in the report.
 
 The **introduction** is similar to the abstract, but with more details. It should describe the problem your system addresses, and why that is an interesting problem.
 
 The **background** section should describe the problem in more detail. This is a good place to introduce important technical terms and concepts that the reader might not be familiar with. You should have **references** for any technologies (algorithms, libraries, devices, etc.) used in your system, along with a brief discussion of them.
 
-The **design** section should contain an overview and a high-level discussion of your overall system design. Additionally, you should have subsections in your design section that discuss each of the main components of your system design (e.g. subsections for your model classes, view classes and controller classes). Be sure to use diagrams (e.g., UML class diagrams) as appropriate. Focus on the most important classes. Discuss the functionality of each class and how it interacts with the rest of the system. **DO NOT** list and describe each field and each method.
+The **design** section should contain an overview and a high-level discussion of your overall system design. Additionally, you should have subsections in your design section that discuss each of the main components of your system design (e.g. subsections for your model classes, view classes and controller classes). Be sure to use diagrams (e.g., UML class diagrams, database schemas) as appropriate. Focus on the most important classes. Discuss the functionality of each class and how it interacts with the rest of the system. **DO NOT** list and describe each field and each method.
 
 The **implementation** section should describe the process you used to turn your design into a working system. Talk about interesting technical challenges you encountered, and how you overcame them. You should include all relevant technical information such as database schemas, mathematical formulas, etc. in this section. Use screenshots to illustrate various aspects of your implementation.
 
-The **future work** section should mention some possible ways that your system could be extended and improved in the future.
+The **future work** section should include a list of major functionality/features that have yet to be implemented.  Since these projects are generally span multiple semesters/years, your issue tracker should capture the above functionality/features for future teams.  Also mention some possible ways that your system could be extended and improved in the future, beyond the above. 
+
+The **references** section should list the references that you have used throughout the document.  You mustplace references in the document wheneer you refer to tools and technologies that you have use, as well as code libraries, sources for important design and technical information, etc.
+ 
+Throughout the document, use **figures, diagrams, tables, screen captures, wire frames, etc** where appropriate to help the reader grasp the overall content that you are presenting.  Refer back to the appropriate figure/table in your text.  A picture is worth at least 1024 (1K) words.  Each of the above must have a figure/table number, as well as a title - below each figure.  For example: "Figure 1: Overall System Architecture Diagram".  Also, all figure/table numbers should be in sequential order in the document.
+
+**NOTE: Your draft report should be ~95% complete, it should only require finishign touches. The draft report is weighted and graded more heavily than the final version of the report.  Also, your draft report is due BEFORE your final presentation - use it to create your final presentation.  Pull the diagrams from your draft report into your presentation.**
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-
-
 ## Writing Is Important!
-
 
 The ability to communicate technical information clearly is an extremely important and valuable skill.
 
