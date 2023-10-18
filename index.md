@@ -16,8 +16,6 @@ This is the website for CS 400 (CS Capstone I) Fall 2023 at [York College of Pen
 
 Here are the links for the CS Capstone I projects for Fall 2023:
 
-<!-- [Blockhouse RFQ Project Web Page](./projects/Blockhouse-RFQ-Project/index.html). -->
- 
 [Privilege Walk Project Course Web Page](./projects/Privilege-Walk-Project/index.html).
 
 [RevMetrix Project Course Web Page](./projects/RevMetrix-Project/index.html).
@@ -36,29 +34,21 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 * 11-14-22: Assignment 7 (Final System Presentation) is from 11:00am to 12:50pm, Monday, 12-5-22, with presentation and demo in class
 
-* 11-14-22: Assignment 7 (Draft Technical Report) is due by Noon, Sunday, 12-4-22, in your Google Team Drive
+* 11-13-23: Assignment 7 (Draft Technical Report):  is due by Noon, Sunday, 12-4-22, in your Google Team Drive
 
-* 11-14-22: Your status report for Monday, 11-28-22 has been moved to Wednesday, 11-30-22
+* 11-13-23: Milestone 3 Final Presentations: Privilege Walk, Friday, 11-28-23 (in class); YCPHacks, Monday, 12-4-23 (in class); RevMetrix: Wednesday, 12-6-23 (during Final Exam period, 8:00 to 10:00).
 
-* 11-14-22: On Monday, 11-21-22, you will be giving your status update to your clients: Tyler Franks & David McHugh 
 
 * 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Monday, 11-14-22, with presentation and demo during class
 
-* 9-29-22: Mid-Semester Peer Evals are due Wednesday, 10-26-22 by Noon, via email in PDF form
-
-* 9-29-22: Assignment 5 (Minimal Working System) is due 11:00am, Monday, 10-24-22, with presentation and demo during class
-
-* 9-29-22: Assignment 4 (Analysis & Design) has been moved to 11:00am, Wednesday, 10-5-22, with presentation during class
-
-* 9-19-22: Assignment 3 (Requirements) is due by 11:00am, Monday, 9-26-22, with presentation during class
-
-* 9-19-22: Assignment 2 (Weekly Journals) are now due every Monday by 11:00am (prior to class), with a summary presentation in class on the days that do not already have another assignment due
-
-* 8-27-22: Assignment 1 (Readiness Demo) is due by 11:00am, Friday, 9-16-22, with presentation during class
-
-* 8-27-22: Assignment 1 (Project Proposal) is due by 11:00am, Friday, 9-9-22, with presentation during class
-
 -->
+
+* 10-18-23: Mid-semester Peer Evals are due by Noon two days after your respective project's Milestone 1 presentation.  Privilege Walk: Wednesday, by Noon on 10-25-23; YCPHacks: Friday, by Noon on 10-27-23; RevMetrix: Sunday, by Noon on 10-29-23.  We will send the peer evaluation forms out via email after your respective presentations.
+
+* 10-18-23: Milestone 1 Presentations: Privilege Walk, Monday, 10-23-23; YCPHacks, Wednesday, 10-25-23; RevMetrix, Friday 10-27-23.
+
+* 10-18-23: All of the Milestone assignments and the Final Report assignment have been posted to the respective projects.  Please review your project's assignment schedule for the assignment descriptions and the due dates.
+
 * 9-11-23: The due dates for your project's [Requirements (assign03)](./assign/assign03.html) and [Analysis & Design (assign04)](./assign/assign04.html) have been posted.  Check your respective project page for details.
 
 * 8-27-23: Dr. Babcock and Professor Hake made the The Capstone Project team assignments.  You can find the project team members for each project on Canvas.
