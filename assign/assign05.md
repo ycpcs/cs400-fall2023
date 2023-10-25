@@ -17,7 +17,7 @@ This is a **Team** assignment.
 
 Your task is to demonstrate a minimal working version of your system.
 
-For "minimal" working system:
+For a "minimal" working system:
 
 -   Your minimal working system should **implement the most important classes in the core object model**, and **test them comprehensively using unit tests**
 -   What are the most important requirements of your system? You should be able to demonstrate to us that they are at least partially implemented, with appropriate navigation between the components of the system.
@@ -28,7 +28,7 @@ Because this milestone involves implementing several of your most important use 
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
-# The Demonstration
+# The Presentation / Demonstration
 
 Each project team should plan to present for about 45 to 60 minutes.  Larger teams (with multiple sub-teams) will likely go longer than that.  There will likely also be an extensive question and answer period.  All presentations need to be limited to less than two hours (including the question and answer period).
 
@@ -36,10 +36,12 @@ You should use some presentation software such as PowerPoint or a Google present
 
 Your presentation should include the following elements:
 
+- Provide a brief description of the project.
 - Provide a high-level overview of your system architecture.
+- Explain what tools/technologies you are using, and what role they play in your project development.
 - Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your **updated** UML diagram(s) and Database Schema.
-- Demonstrate the system in action. Walk through your UI (and/or internal workflow) and explain the use case functionality it demonstatrates.
-- Run your unit tests to demonstrate your testing framework, and describe what is happening.
+- Demonstrate the system in action. Walk through your UI (and/or internal workflow) and explain the use case functionality it demonstrates.
+- Discuss your automated test strategy, and run your unit tests to demonstrate your testing framework, and describe what is happening.
 - Briefly talk about how you plan to evolve the system to implement the remaining functionality.
 
 **Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your team to troubleshoot issues that arise during the presentation.
