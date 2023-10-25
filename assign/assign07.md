@@ -59,7 +59,7 @@ Here is a suggested structure for your presentation:
 
 Your assignment grade will be determined as follows:
 
--   Draft Report **(15% of overall project grade):**
+-   Draft Report **(16% of overall project grade):**
     -   Organization/Flow: **25%**
     -   Writing quality: **25%**
     -   Clarity/completeness of technical content: **50%**
@@ -72,7 +72,7 @@ Your assignment grade will be determined as follows:
 	- Overall progess towards goals: **50%**
 	- Demonstration of functionality: **50%**
 
--   Final Report **(5% of overall project grade)**
+-   Final Report **(4% of overall project grade)**
 
 You will also be submitting Final Peer Evaluations a few days after your presentation.  See the schedule for the date.  You instructor will provide the form and further details to you.
 
