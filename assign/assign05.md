@@ -40,7 +40,7 @@ Your presentation should include the following elements:
 - Explain what parts of your design are implemented, and which parts remain to be implemented by referencing your **updated** UML diagram(s) and Database Schema.
 - Demonstrate the system in action. Walk through your UI (and/or internal workflow) and explain the use case functionality it demonstatrates.
 - Run your unit tests to demonstrate your testing framework, and describe what is happening.
--Briefly talk about how you plan to evolve the system to implement the remaining functionality.
+- Briefly talk about how you plan to evolve the system to implement the remaining functionality.
 
 **Please do a dry run before class.** Because of the limited amount of time we have in class, we can't wait for your team to troubleshoot issues that arise during the presentation.
 
