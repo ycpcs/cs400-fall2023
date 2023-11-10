@@ -36,12 +36,15 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 * 11-13-23: Assignment 7 (Draft Technical Report):  is due by Noon, Sunday, 12-4-22, in your Google Team Drive
 
-* 11-13-23: Milestone 3 Final Presentations: Privilege Walk, Friday, 11-28-23 (in class); YCPHacks, Monday, 12-4-23 (in class); RevMetrix: Wednesday, 12-6-23 (during Final Exam period, 8:00 to 10:00).
-
-
-* 10-28-22: Assignment 6 (50% Working System) is at 11:00am, Monday, 11-14-22, with presentation and demo during class
-
 -->
+
+* 11-10-23: Milestone 3 Final Presentations: Privilege Walk, Friday, 12-1-23 (in class); YCPHacks, Monday, 12-4-23 (in class); RevMetrix: Wednesday, 12-6-23 (in KEC 119 during the Final Exam period, 8:00 to 10:00).
+
+* 11-10-23: There will be no status updates the week following Thanksgiving Break (the last week of classes).  Monday, 11-27-23 and Wednesday, 11-29-23 will be team work days.  Friday, 12-1-23 will be the Privilege Walk Final Presentation.
+
+* 11-5-23: Due to overwhelming participation at YCPHacks this weekend, CS Capstone is cancelled for Monday, 11-6-23.
+
+* 11-1-23: Milestone 2 Presentations: Privilege Walk, Wednesday, 11-8-23; RevMetrix, Friday, 11-10-23; YCPHacks, Monday, 11-13-23.
 
 * 10-18-23: Mid-semester Peer Evals are due by Noon two days after your respective project's Milestone 1 presentation.  Privilege Walk: Wednesday, by Noon on 10-25-23; YCPHacks: Friday, by Noon on 10-27-23; RevMetrix: Sunday, by Noon on 10-29-23.  We will send the peer evaluation forms out via email after your respective presentations.
 
