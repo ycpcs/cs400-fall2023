@@ -36,7 +36,7 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 
 * 11-28-23: Assignment 7 (Final Report) due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23
 
-* 11-26-23: Posted an excellent example of an integrated, multi-disciplinary, multi-team final presentation: [Radio Telescope Sp23 Final Presentation](./Projects/RT-Sp22-FinalPresentation.pdf).  Also posted the respective final technical reports from those same teams: [RT ControlRoom Team Final Report](./projects/RT-Sp22-ControlRoom-FinalTechReport.pdf); [RT MobileApp Team Final Report](./projects/RT-Sp22-MobleApp-FinalTechReport.pdf); [RT Visualization Team Final Report](RT-Sp22-Visualization-FinalTechReport.pdf).
+* 11-26-23: Posted an excellent example of an integrated, multi-disciplinary, multi-team final presentation: [Radio Telescope Sp23 Final Presentation](./projects/RT-Sp22-FinalPresentation.pdf).  Also posted the respective final technical reports from those same teams: [RT ControlRoom Team Final Report](./projects/RT-Sp22-ControlRoom-FinalTechReport.pdf); [RT MobileApp Team Final Report](./projects/RT-Sp22-MobileApp-FinalTechReport.pdf); [RT Visualization Team Final Report](./projects/RT-Sp22-Visualization-FinalTechReport.pdf).
 
 * 11-26-23: Assignment 7 (Draft Technical Report): due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 11-29-23; YCPHacks: Noon, Friday, 12-1-23; RevMetrix: Noon, Sunday 12-3-23
 
