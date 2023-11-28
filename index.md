@@ -28,15 +28,13 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 * [Syllabus](syllabus.html)
 
 ## News
-<!-- Commenting out News until it's needed - and the dates could change, anyway
+<!-- Commenting out News until it's needed - and the dates could change, anyway -->
 
-* 11-14-22: Assignment 7 (Final Report and Final Peer Evals) are both due by Noon, Sunday, 12-11-22
+* 11-28-23: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out to each team immediately after their respective final presentations.  The due dates are - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23.  
 
-* 11-14-22: Assignment 7 (Final System Presentation) is from 11:00am to 12:50pm, Monday, 12-5-22, with presentation and demo in class
+* 11-28-23: Assignment 7 (Final Report) due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23
 
-* 11-13-23: Assignment 7 (Draft Technical Report):  is due by Noon, Sunday, 12-4-22, in your Google Team Drive
-
--->
+* 11-26-23: Assignment 7 (Draft Technical Report): due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 11-29-23; YCPHacks: Noon, Friday, 12-1-23; RevMetrix: Noon, Sunday 12-3-23
 
 * 11-10-23: Milestone 3 Final Presentations: Privilege Walk, Friday, 12-1-23 (in class); YCPHacks, Monday, 12-4-23 (in class); RevMetrix: Wednesday, 12-6-23 (in KEC 119 during the Final Exam period, 8:00 to 10:00).
 
