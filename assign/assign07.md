@@ -15,7 +15,9 @@ This is a **Team** assignment.
 
 # Your Task
 
-Your task is to complete a final report documenting your project, and to give a presentation on the project. Our expectations for the report are described in the [Final Report Details](finalreport.html) document.
+Your task is to complete a final report documenting your project, and to give a presentation on the project.
+
+**Our expectations for the report are described in the [Final Report Details](finalreport.html) document.**
 
 We **strongly encourage** you to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
 

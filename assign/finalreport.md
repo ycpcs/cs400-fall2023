@@ -43,19 +43,19 @@ The **references** section should list the references that you have used through
  
 Throughout the document, use **figures, diagrams, tables, screen captures, wire frames, etc** where appropriate to help the reader grasp the overall content that you are presenting.  Refer back to the appropriate figure/table in your text.  A picture is worth at least 1024 (1K) words.  Each of the above must have a figure/table number, as well as a title - below each figure.  For example: "Figure 1: Overall System Architecture Diagram".  Also, all figure/table numbers should be in sequential order in the document.
 
-**NOTE: Your draft report should be ~95% complete, it should only require finishing touches. The draft report is weighted and graded more heavily than the final version of the report.  Also, your draft report is due BEFORE your final presentation - use it to create your final presentation.  Pull the diagrams from your draft report into your presentation.**
+**NOTE: Your draft report should be ~95% complete, it should only require finishing touches. The draft report is weighted and graded much more heavily than the final version of the report.  Also, your draft report is due BEFORE your final presentation - use it to create your final presentation.  Pull the diagrams from your draft report into your presentation.**
 
 Here are several excellent examples of final technical reports from the Radio Telescope Project from 2022:
 
 CS400: Fall 2022 Radio Telescope teams
-- [CS400 Fall 2022 RT ControlRoom Team Final Report](./projects/CS400-Fa22-RT-ControlRoom-FinalTechReport.pdf)
-- [CS400 Fall 2022 RT MobileApp Team Final Report](./projects/CS400-Fa22-RT-MobileApp-FinalTechReport.pdf)
-- [CS400 Fall 2022 RT Visualization Team Final Report](./projects/CS400-Fa22-RT-Visualization-FinalTechReport.pdf).
+- [CS400 Fall 2022 RT ControlRoom Team Final Report](../projects/CS400-Fa22-RT-ControlRoom-FinalTechReport.pdf)
+- [CS400 Fall 2022 RT MobileApp Team Final Report](../projects/CS400-Fa22-RT-MobileApp-FinalTechReport.pdf)
+- [CS400 Fall 2022 RT Visualization Team Final Report](../projects/CS400-Fa22-RT-Visualization-FinalTechReport.pdf).
 
 CS402: Spring 2022 Radio Telescope teams (working in combination with ECE402 and ME402 Capstone teams:
-- [CS402 Spring 2022 RT ControlRoom Team Final Report](./projects/CS402-Sp22-RT-ControlRoom-FinalTechReport.pdf)
-- [CS402 Spring 2022 RT MobileApp Team Final Report](./projects/CS402-Sp22-RT-MobileApp-FinalTechReport.pdf)
-- [CS402 Spring 2022 RT Visualization Team Final Report](./projects/CS402-Sp22-RT-Visualization-FinalTechReport.pdf).
+- [CS402 Spring 2022 RT ControlRoom Team Final Report](../projects/CS402-Sp22-RT-ControlRoom-FinalTechReport.pdf)
+- [CS402 Spring 2022 RT MobileApp Team Final Report](../projects/CS402-Sp22-RT-MobileApp-FinalTechReport.pdf)
+- [CS402 Spring 2022 RT Visualization Team Final Report](../projects/CS402-Sp22-RT-Visualization-FinalTechReport.pdf).
 
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
@@ -70,7 +70,8 @@ We expect your report to be well-written. Specifically:
 -   **It should be in one voice.** Although all team members will be responsible for dividing up the task of writing the report, we expect the **ENTIRE TEAM** to review and edit the report so that the writing style is consistent throughout. You should have someone read the document aloud to the other team members so the grammar can be more easily fixed.
 -   **It should be be professional.** Use appropriate language. You should explain technical terms and acronyms that are specific to your project and not common knowledge. Don't make it "conversational", it should not contain the word "you". Additionally, your document should NOT be written in first person singular. You may use "we", but since this is a team proposal, it should NOT contain words such as "I", "me", etc.
 -   **It should use correct spelling and grammar.** Use a spelling checker!
--   Remember, this document will be posted publicly on the YCP Computer Science web page. It will be visible to the whole world, including future prospective employers and students.
+- Feel free to use [ChatGPT](https://chat.openai.com] to assist in organizing and formulating your paper.  ChatGPT won't be able to write the paper for you - you will have to provide it with the content, but you can use ChatGPT to help provide wording, correct tenses and voices, and find errors in spelling, syntax, and grammar.
+-   Remember, this document will be posted publicly on the YCP Computer Science web page. It will be visible to the whole world, including future prospective employers and students.  
 
 We **strongly encourage** you to make an appointment and visit the [Writing Center in the Center for Teaching and Learning](http://www.ycp.edu/offices-and-services/center-for-teaching-and-learning/writing-center/) to get help from a writing tutor. Bring your document with you!
 
