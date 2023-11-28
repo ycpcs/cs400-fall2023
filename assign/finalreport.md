@@ -45,6 +45,18 @@ Throughout the document, use **figures, diagrams, tables, screen captures, wire 
 
 **NOTE: Your draft report should be ~95% complete, it should only require finishign touches. The draft report is weighted and graded more heavily than the final version of the report.  Also, your draft report is due BEFORE your final presentation - use it to create your final presentation.  Pull the diagrams from your draft report into your presentation.**
 
+Here are several excellent examples of final technical reports from the Radio Telescope Project from 2022:
+
+CS400: Fall 2022 Radio Telescope teams
+- [CS400 Fall 2022 RT ControlRoom Team Final Report](./projects/CS400-Fa22-RT-ControlRoom-FinalTechReport.pdf)
+- [CS400 Fall 2022 RT MobileApp Team Final Report](./projects/CS400-Fa22-RT-MobileApp-FinalTechReport.pdf)
+- [CS400 Fall 2022 RT Visualization Team Final Report](./projects/CS400-Fa22-RT-Visualization-FinalTechReport.pdf).
+
+CS402: Spring 2022 Radio Telescope teams (working in combination with ECE402 and ME402 Capstone teams:
+- [CS402 Spring 2022 RT ControlRoom Team Final Report](./projects/CS402-Sp22-RT-ControlRoom-FinalTechReport.pdf)
+- [CS402 Spring 2022 RT MobileApp Team Final Report](./projects/CS402-Sp22-RT-MobileApp-FinalTechReport.pdf)
+- [CS402 Spring 2022 RT Visualization Team Final Report](./projects/CS402-Sp22-RT-Visualization-FinalTechReport.pdf).
+
 --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- ---
 
 ## Writing Is Important!
