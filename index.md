@@ -30,7 +30,9 @@ Here are the links for the CS Capstone I projects for Fall 2023:
 ## News
 <!-- Commenting out News until it's needed - and the dates could change, anyway -->
 
-* 11-28-23: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out to each team immediately after their respective final presentations.  The due dates are - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23.  
+* 11-28-23: Assignment 7 (Final Peer Evals) - The Final Peer Eval forms will be sent out to each team immediately after their respective final presentations.  The due dates are - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23.
+
+* 11-28-23: Our end-of-semester celebration dinner will be on Tuesday, 12-5-23 starting at 6:30pm at Stone Grille & Taphouse, 204 St. Charles Way, York, PA 17402.  Please let us know if you do NOT plan on attending.
 
 * 11-28-23: Assignment 7 (Final Report) due by Noon in your respective Google Team Folders - Privilege Walk: Noon, Wednesday, 12-6-23; YCPHacks: Noon, Friday, 12-8-23; RevMetrix: Noon, Sunday, 12-10-23
 
