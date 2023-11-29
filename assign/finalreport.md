@@ -52,7 +52,7 @@ CS400: Fall 2022 Radio Telescope teams
 - [CS400 Fall 2022 RT MobileApp Team Final Report](../projects/CS400-Fa22-RT-MobileApp-FinalTechReport.pdf)
 - [CS400 Fall 2022 RT Visualization Team Final Report](../projects/CS400-Fa22-RT-Visualization-FinalTechReport.pdf).
 
-CS402: Spring 2022 Radio Telescope teams (working in combination with ECE402 and ME402 Capstone teams:
+CS402: Spring 2022 Radio Telescope teams (in coordination with ECE402 and ME402 Capstone teams):
 - [CS402 Spring 2022 RT ControlRoom Team Final Report](../projects/CS402-Sp22-RT-ControlRoom-FinalTechReport.pdf)
 - [CS402 Spring 2022 RT MobileApp Team Final Report](../projects/CS402-Sp22-RT-MobileApp-FinalTechReport.pdf)
 - [CS402 Spring 2022 RT Visualization Team Final Report](../projects/CS402-Sp22-RT-Visualization-FinalTechReport.pdf).
